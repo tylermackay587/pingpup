@@ -54,7 +54,7 @@ img {
 }
 @media screen and (max-width: 500px) {
   .col > img {
-    margin-top: 1.7em;
+    margin-top: 1.9em;
     height: 2.5em;
   }
 }
