@@ -1,3 +1,6 @@
+./dist
+
+
 # Logs
 logs
 *.log
@@ -21,7 +24,7 @@ coverage
 .grunt
 
 # node-waf configuration
-.lock-wscript
+.lock-wscripts
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release

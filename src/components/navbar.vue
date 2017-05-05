@@ -52,5 +52,11 @@
 img {
   float: left;
 }
+@media screen and (max-width: 500px) {
+  .col > img {
+    margin-top: 1.7em;
+    height: 2.5em;
+  }
+}
 
 </style>
