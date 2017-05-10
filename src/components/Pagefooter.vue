@@ -4,24 +4,10 @@
       <div class="row"> 
         <div class="col-xs-12 col-sm-4">
         <router-link to="/">
-        <img src="https://res.cloudinary.com/dqd3ugvju/image/upload/v1493996372/pingPupLogo_sebhxx.png">
+        <img src="https://res.cloudinary.com/dqd3ugvju/image/upload/v1494416429/pingPupLogo_bqlekg.png">
         </router-link>
         </div>
         <div class="col-xs-12 col-sm-12">
-          <ul>
-            <li>
-            <router-link to="/about">
-            <i class="fa fa-angle-right"></i>
-            About
-            </router-link>
-            </li>
-            <li>
-            <router-link to="/pricing">
-            <i class="fa fa-angle-right"></i>
-            Pricing
-            </router-link>
-            </li>
-          </ul>
         </div>
       </div>
 		</div>

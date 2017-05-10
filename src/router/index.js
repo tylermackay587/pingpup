@@ -9,21 +9,21 @@ Vue.use(Router)
 
 export default new Router({
   routes: [
+    // {
+    //   path: '/pricing',
+    //   name: 'pricing',
+    //   component: Pricing
+    // },
     {
-      path: '/pricing',
-      name: 'pricing',
-      component: Pricing
-    },
-    {
-      path: '/',
+      path: '*',
       name: 'landing',
       component: Landing
     },
-    {
-      path: '/about',
-      name: 'about',
-      component: About
-    }
+    // {
+    //   path: '/about',
+    //   name: 'about',
+    //   component: About
+    // }
   ]
 })
 

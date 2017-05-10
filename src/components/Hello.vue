@@ -3,11 +3,11 @@
     <div class="row">
       <div class="col-xs-12 col-sm-8 text">
         <h1>{{ msg }}</h1>
-        <p class="lead">From counting to calculus.</p>
+        <p class="lead">From cell numbers to social profiles.</p>
         <p>
-        <a href="http://the-mathacademy.herokuapp.com/#/robot">
+        <a href="http://app.pingpup.com">
         <button role="button" class="btn btn-warning btn-large black">
-          Play now
+          Sign up
         </button>
         </a>
         </p>
@@ -24,7 +24,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: 'Learn math by programing a robot'
+      msg: 'Always have current contact info for your friends.'
     }
   }
 }

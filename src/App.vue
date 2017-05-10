@@ -3,7 +3,7 @@
     <navbar></navbar>
     <router-view></router-view>
     <div id="footerButton">
-    <a href="https://the-mathacademy.herokuapp.com/#/"><button id="signup" type="button" class="btn btn-block btn-success try">Sign up</button></a>
+    <a href="http://app.pingpup.com"><button id="signup" type="button" class="btn btn-block btn-success try">Sign up</button></a>
     </div>
     <pagefooter></pagefooter>
   </div>

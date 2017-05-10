@@ -3,14 +3,14 @@
     <div class="row">
     <router-link to="/">
       <div class="col col-xs-2 col-sm-2 col-md-2 col-lg-2">
-        <img src="https://res.cloudinary.com/dqd3ugvju/image/upload/v1493996372/pingPupLogo_sebhxx.png">
+        <img src="https://res.cloudinary.com/dqd3ugvju/image/upload/v1494416429/pingPupLogo_bqlekg.png">
       </div>
     </router-link>
       <div class="col col-xs-6 col-sm-8 col-md-8 col-lg-8">
       </div>
       <div class="col col-xs-4 col-sm-2 col-md-2 col-lg-2">
         <div class="button-container">
-        <a href="https://the-mathacademy.herokuapp.com/#/signup">
+        <a href="http://app.pingpup.com">
           <button id="signup" type="button" class="btn btn-sm btn-success signup">Sign up</button>
         </a>
         </div>
